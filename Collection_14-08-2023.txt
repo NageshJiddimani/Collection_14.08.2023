@@ -1,0 +1,19 @@
+Today I learnt about collection:
+In that:
+
+1. Need of collection framework
+2. Difference between arrays and Collection
+3. 9 key interfaces of collection:
+   i) List 
+   ii) Set
+   iii) Sorted set 
+   iv) NavigableSet
+   v) Queue
+   vi) Map
+   vii) Sorted Map
+   viii) Navigable Map
+   ix) Collection Interface
+
+4. List
+   i) ArrayList
+   
